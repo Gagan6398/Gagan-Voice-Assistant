@@ -4,6 +4,23 @@
 
 ---
 
+
+ # Project Structure (Folder Layout)
+**GaganVoiceAssistant**
+│
+├── assets/
+│   └── screenshot.png             # UI preview image for README 
+│
+├── gagan_voice_assistant.py       # Main Python file (core app)
+│
+├── requirements.txt               # All dependencies for pip install
+│
+├── README.md                      # Project overview & usage instructions
+
+
+--
+
+
 🧠 Features
 
 - 🎤 Wake word detection: “Hey Gagan”
